@@ -25,7 +25,7 @@ Later, install the requirements:
 pip install -r requirements.txt
 ```
 
-For ORCA installation, refer to [Python RVO2](https://github.com/Taospirit/Python-RVO2).
+For ORCA installation, go to [Python RVO2](https://github.com/Taospirit/Python-RVO2).
 
 Finally, activate Jupyter Lab:
 
