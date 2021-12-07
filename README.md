@@ -10,8 +10,6 @@
 
 ## Simulation of Collision Avoidance Algorithms in 2D using Voronoi Diagrams
 
-Code used in my Graduation Project as requirement for obtaining the degree of Information Technology Engineer.
-
 ### Installation
 Please, install [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) for package management according to your system specifications.
 
