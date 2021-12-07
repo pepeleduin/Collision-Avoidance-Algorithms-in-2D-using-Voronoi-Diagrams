@@ -10,8 +10,6 @@
 
 ## Simulation of Collision Avoidance Algorithms in 2D using Voronoi Diagrams
 
-Code used in my Graduation Project as requirement for obtaining the degree of Information Technology Engineer.
-
 ### Installation
 Please, install [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) for package management according to your system specifications.
 
@@ -32,3 +30,6 @@ Finally, activate Jupyter Lab:
 ```
 jupyter lab
 ```
+### Experimental Setup
+
+The experiments were executed in a computer with a Intel &reg; Core &trade; i7-10750H CPU @ 2.60GHz processor with 6 CPU Cores, 12 Logical processors, 15.5 GB RAM, 64-bit System type running on Ubuntu 20.04.2 Operating System.
