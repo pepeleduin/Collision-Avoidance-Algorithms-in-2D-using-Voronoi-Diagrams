@@ -1,13 +1,3 @@
-<img
-  src="https://www.yachaytech.edu.ec/wp-content/themes/yachay/images/header/logo-yachaytech.png"
-  alt="yt_logo"
-  width="200"
-  align="right"
-/>
-
-<br/>
-<br/>
-
 ## Simulation of Collision Avoidance Algorithms in 2D using Voronoi Diagrams
 
 ### Installation
